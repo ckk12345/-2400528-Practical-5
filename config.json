@@ -1,5 +1,5 @@
 {
   "systemTitle": "Practical 5 System",
   "systemStatus": "active",
-  "environment": "development"
+  "environment": "production"
 }
